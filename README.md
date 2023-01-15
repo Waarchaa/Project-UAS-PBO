@@ -32,7 +32,7 @@ Contoh sebuah project Java yang menerapkan konsep PBO atau OOP
 <br>
 *  Data mahasiswa yang ditampilkan akan berdasarkan kode unik yang dimasukan yaitu NIM mahasiswa. Jika NIM dimasukkan kemudian di klik cari makan mahasiswa dengan dim tersebut datanya akan tampil di Interface.
 
-
+![2023-01-15 (3)](https://user-images.githubusercontent.com/116379613/212529207-56172ce4-d686-43e9-9f39-8af637307183.png)
 
 <br>
 
