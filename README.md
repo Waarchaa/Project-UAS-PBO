@@ -2,7 +2,7 @@
 ## Dibuat oleh: Nazwa Aulia (312110044)
 
 ## Link Youtub Penjelasan Project
-
+https://youtu.be/EN7LJSI8k5E
 
 <br>
 <br>
